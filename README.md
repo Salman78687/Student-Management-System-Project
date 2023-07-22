@@ -1,2 +1,1 @@
-# Student-Management-System-Project
-A management system project for my semester in C++
+Developed a student management system in C++ without a GUI for my semester project, utilizing data structures concepts and implementing secure login with password hashing. Designed a comprehensive system for student registration, course enrolment, and grade tracking. Emphasized data security by applying password hashing techniques to protect login credentials. Demonstrated proficiency in C++ programming, data structures, and secure software development.
